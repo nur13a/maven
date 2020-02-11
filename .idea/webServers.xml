@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a8fd93cb-8d61-4c41-8401-5ad099d5f365" name="jsp" url="http://localhost/maven++">
+        <fileTransfer port="0" mountedRoot="C:\Users\Администратор\Desktop\git maven\Maven++\src\main\webApp" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
