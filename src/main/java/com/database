@@ -1,0 +1,10 @@
+create table cars(
+    id serial primary key,
+    model varchar(50) not null,
+    manufactureYear int not null,
+    price int not null,
+    color varchar(50) not null
+);
+insert into cars(model,manufactureYear,price,color) values ('Honda',2000,562,'black'),
+                                                           ('Mers',2018,564,'white'),
+                                                           ('BMW',2020,859,'black');
